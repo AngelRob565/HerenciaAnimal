@@ -22,6 +22,11 @@ namespace HerenciaAnimal
             get { return _intEdad; }
             set { _intEdad = value; }
         }
+        public Animal(string strNombre, int intEdad)
+        {
+            Nombre = strNombre;
+            Edad = intEdad;
+        }
         public virtual string HacerSonido()
             { return  "Sonido propio del animal"; }
     }
