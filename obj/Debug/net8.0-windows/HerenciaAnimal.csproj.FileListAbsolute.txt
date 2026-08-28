@@ -1,0 +1,16 @@
+C:\Users\angel\source\repos\HerenciaAnimal\bin\Debug\net8.0-windows\HerenciaAnimal.exe
+C:\Users\angel\source\repos\HerenciaAnimal\bin\Debug\net8.0-windows\HerenciaAnimal.deps.json
+C:\Users\angel\source\repos\HerenciaAnimal\bin\Debug\net8.0-windows\HerenciaAnimal.runtimeconfig.json
+C:\Users\angel\source\repos\HerenciaAnimal\bin\Debug\net8.0-windows\HerenciaAnimal.dll
+C:\Users\angel\source\repos\HerenciaAnimal\bin\Debug\net8.0-windows\HerenciaAnimal.pdb
+C:\Users\angel\source\repos\HerenciaAnimal\obj\Debug\net8.0-windows\HerenciaAnimal.Form1.resources
+C:\Users\angel\source\repos\HerenciaAnimal\obj\Debug\net8.0-windows\HerenciaAnimal.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\HerenciaAnimal\obj\Debug\net8.0-windows\HerenciaAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\HerenciaAnimal\obj\Debug\net8.0-windows\HerenciaAnimal.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\HerenciaAnimal\obj\Debug\net8.0-windows\HerenciaAnimal.AssemblyInfo.cs
+C:\Users\angel\source\repos\HerenciaAnimal\obj\Debug\net8.0-windows\HerenciaAnimal.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\HerenciaAnimal\obj\Debug\net8.0-windows\HerenciaAnimal.dll
+C:\Users\angel\source\repos\HerenciaAnimal\obj\Debug\net8.0-windows\refint\HerenciaAnimal.dll
+C:\Users\angel\source\repos\HerenciaAnimal\obj\Debug\net8.0-windows\HerenciaAnimal.pdb
+C:\Users\angel\source\repos\HerenciaAnimal\obj\Debug\net8.0-windows\HerenciaAnimal.genruntimeconfig.cache
+C:\Users\angel\source\repos\HerenciaAnimal\obj\Debug\net8.0-windows\ref\HerenciaAnimal.dll
